@@ -1,6 +1,5 @@
 # Scrapy-IT_home_hot_comment
 
-标签（空格分隔）： 爬虫 Scrapy
 
 ---
 
@@ -14,7 +13,7 @@ Scrapy爬取IT之家热门评论
 
 # 注意事项
 
- 1. 注意时效性，当前（2018/10/13）评论接口（https://dyn.ithome.com/ithome/getajaxdata.aspx）的post数据为newsID、hash、pid、type，使用时请先注意该接口post数据是否改变
+ 1. 注意时效性，当前（2018/10/13）评论接口（https://dyn.ithome.com/ithome/getajaxdata.aspx） 的post数据为newsID、hash、pid、type，使用时请先注意该接口post数据是否改变
  2. 使用Mysql数据库时，请将ip、username、password和db换成本地数据库配置，并请根据建表语句先建表。
  3. 仅供学习交流使用，爬取速度不要设置太快，减少服务器压力
 
