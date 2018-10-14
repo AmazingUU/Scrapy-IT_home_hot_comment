@@ -16,7 +16,8 @@ Scrapy爬取IT之家热门评论
  3. 仅供学习交流使用，爬取速度不要设置太快，减少服务器压力
 
 # 参考资料
- 
+
+ https://blog.csdn.net/AmazingUU/article/details/83043592
 
 
   [1]: https://www.ithome.com/
