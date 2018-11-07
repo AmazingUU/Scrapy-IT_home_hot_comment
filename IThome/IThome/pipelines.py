@@ -21,7 +21,7 @@ class IthomePipeline(object):
         # return item
 
         # 存储到数据库,ip,user,password,db请换成自己本地数据库
-        db = MySQLdb.connect('localhost', 'testuser', 'test623', 'spider', charset='utf8')
+        db = MySQLdb.connect('***', '***', '***', '***', charset='utf8')
         try:
             with db.cursor() as cursor:
                 # 请先在数据库建表,建表语句
